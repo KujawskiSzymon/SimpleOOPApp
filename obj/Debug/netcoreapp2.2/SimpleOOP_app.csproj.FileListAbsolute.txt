@@ -1,0 +1,11 @@
+C:\Users\John\Documents\SimpleOOP_app\bin\Debug\netcoreapp2.2\SimpleOOP_app.deps.json
+C:\Users\John\Documents\SimpleOOP_app\bin\Debug\netcoreapp2.2\SimpleOOP_app.runtimeconfig.json
+C:\Users\John\Documents\SimpleOOP_app\bin\Debug\netcoreapp2.2\SimpleOOP_app.runtimeconfig.dev.json
+c:\Users\John\Documents\SimpleOOP_app\bin\Debug\netcoreapp2.2\SimpleOOP_app.dll
+c:\Users\John\Documents\SimpleOOP_app\bin\Debug\netcoreapp2.2\SimpleOOP_app.pdb
+c:\Users\John\Documents\SimpleOOP_app\obj\Debug\netcoreapp2.2\SimpleOOP_app.csprojAssemblyReference.cache
+c:\Users\John\Documents\SimpleOOP_app\obj\Debug\netcoreapp2.2\SimpleOOP_app.csproj.CoreCompileInputs.cache
+c:\Users\John\Documents\SimpleOOP_app\obj\Debug\netcoreapp2.2\SimpleOOP_app.AssemblyInfoInputs.cache
+c:\Users\John\Documents\SimpleOOP_app\obj\Debug\netcoreapp2.2\SimpleOOP_app.AssemblyInfo.cs
+c:\Users\John\Documents\SimpleOOP_app\obj\Debug\netcoreapp2.2\SimpleOOP_app.dll
+c:\Users\John\Documents\SimpleOOP_app\obj\Debug\netcoreapp2.2\SimpleOOP_app.pdb
